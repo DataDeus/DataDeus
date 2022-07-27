@@ -4,6 +4,11 @@
 The name's
 ### Eliel Godsent ✨
 
+## About me,
+If you didn't know before, I am a Data Scientist 🥳 and I've been doing this for 4 years now... Most of my achievements are in helping the community and people 10x their career. I have also helped several global brands reach their goals
+
+I'm Intensely energetic ⚡️, very curious 🧠  - asking the right questions and rapidly innovative 🤌🏾
+
 - 🔭 I’m currently working on ... Computer Viosion projects 👁 
 - 🌱 I’m currently learning ... Web3 technologies ⚡️ 
 - 👯 I’m looking to collaborate on ... Biohacking, and profiling projects 🚀 
@@ -15,8 +20,8 @@ The name's
 
 __________________________________________________________________________________________________________________________________________________________
 
-[https://bit.ly/DataDeus] takes you to my Portfolio 👍🏾
+Clicking [https://bit.ly/DataDeus] takes you to my Portfolio 👍🏾
 <br>
-[https://bit.ly/ElielCV] Review my CV 🙌🏾
+Kindly review my CV 🙌🏾 at [https://bit.ly/ElielCV] 🙌🏾
 <br>
 Use [https://medium.com/@godsenteliel] to read some of my articles 👀 
