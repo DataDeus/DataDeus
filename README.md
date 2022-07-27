@@ -12,10 +12,10 @@ The name's
 - 📫 How to reach me: ... godsenteliel@gmail.com ✅
 - 😄 Pronouns: ... El - it means God in Hebrew. 👑 
 - ⚡ Fun fact: ... I can laugh, eat and run at the same time... 😂 🍲 🏃‍♀️ 
--
 
 __________________________________________________________________________________________________________________________________________________________
 
-[https://bit.ly/DataDeus] (Check out my Portfolio) 👍🏾
-[https://bit.ly/ElielCV] (Review my CV) 🙌🏾
+(https://bit.ly/DataDeus) [Check out my Portfolio] 👍🏾
+<br>
+(https://bit.ly/ElielCV) [Review my CV] 🙌🏾
 
