@@ -15,7 +15,7 @@ The name's
 
 __________________________________________________________________________________________________________________________________________________________
 
-[bit.ly/DataDeus] takes you to my Portfolio 👍🏾
+[https://bit.ly/DataDeus] takes you to my Portfolio 👍🏾
 <br>
-https://bit.ly/ElielCV) [Review my CV] 🙌🏾
+[https://bit.ly/ElielCV] [Review my CV] 🙌🏾
 
