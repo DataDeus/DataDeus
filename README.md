@@ -18,12 +18,15 @@ I'm Intensely energetic ⚡️, very curious 🧠  - asking the right questions 
 - 😄 Pronouns: ... El - it means God in Hebrew. 👑 
 - ⚡ Fun fact: ... I can laugh, eat and run at the same time... 😂 🍲 🏃‍♀️ 
 
-__________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________
 
 Clicking [https://bit.ly/DataDeus] takes you to my Portfolio 👍🏾
 <br>
 Kindly review my CV 🙌🏾 at [https://bit.ly/ElielCV] 🙌🏾
 <br>
 Use [https://medium.com/@godsenteliel] to read some of my articles 👀 
+___________________________________________________________________________________________________________________________________________________________
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DataDeus&theme=dark&show_icons=true&count_private=true)
+<br>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DataDeus)
