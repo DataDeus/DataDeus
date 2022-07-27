@@ -25,3 +25,5 @@ Clicking [https://bit.ly/DataDeus] takes you to my Portfolio 👍🏾
 Kindly review my CV 🙌🏾 at [https://bit.ly/ElielCV] 🙌🏾
 <br>
 Use [https://medium.com/@godsenteliel] to read some of my articles 👀 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=DataDeus&theme=dark&show_icons=true&count_private=true)
