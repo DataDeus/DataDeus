@@ -4,7 +4,7 @@
 The name's
 ### Eliel Godsent ✨
 
-- 🔭 I’m currently working on ... Computer Viosion projects 👀 
+- 🔭 I’m currently working on ... Computer Viosion projects 👁 
 - 🌱 I’m currently learning ... Web3 technologies ⚡️ 
 - 👯 I’m looking to collaborate on ... Biohacking, and profiling projects 🚀 
 - 🤔 I’m looking for help with ... Community and mentorship 🎤
@@ -15,7 +15,7 @@ The name's
 
 __________________________________________________________________________________________________________________________________________________________
 
-(https://bit.ly/DataDeus) [Check out my Portfolio] 👍🏾
+bit.ly/DataDeus takes you to my Portfolio 👍🏾
 <br>
-(https://bit.ly/ElielCV) [Review my CV] 🙌🏾
+https://bit.ly/ElielCV) [Review my CV] 🙌🏾
 
