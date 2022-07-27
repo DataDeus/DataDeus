@@ -17,5 +17,6 @@ ________________________________________________________________________________
 
 [https://bit.ly/DataDeus] takes you to my Portfolio 👍🏾
 <br>
-[https://bit.ly/ElielCV] [Review my CV] 🙌🏾
-
+[https://bit.ly/ElielCV] Review my CV 🙌🏾
+<br>
+Use [https://medium.com/@godsenteliel] to read some of my articles 👀 
