@@ -12,7 +12,7 @@ I'm Intensely energetic ⚡️, very curious 🧠  - asking the right questions 
 - 🔭 I’m currently working on ... Computer Viosion projects 👁 
 - 🌱 I’m currently learning ... Web3 technologies ⚡️ 
 - 👯 I’m looking to collaborate on ... Biohacking, and profiling projects 🚀 
-- 🤔 I’m looking for help with ... Community and mentorship 🎤
+- 🙌🏾 I can offer help with ... Community and mentorship 🎤
 - 💬 Ask me about ... Data, Music and Culture 🤌🏾
 - 📫 How to reach me: ... godsenteliel@gmail.com ✅
 - 😄 Pronouns: ... El - it means God in Hebrew. 👑 
